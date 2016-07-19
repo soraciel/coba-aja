@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+nuning<!DOCTYPE html>
 <html>
     <head>
         <title>CRUD codeigniter 3 - belajarphp.net</title>
